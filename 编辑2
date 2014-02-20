@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<title>纯玩网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="在线 [!--pagetitle--] 小游戏" />
+<meta name="description" content="在线[!--pagetitle--]小游戏" />
+<LINK href="/favicon.ico" type=image/x-icon rel="shortcut icon">
+<LINK href="/skin/dana/css/style.css" type=text/css rel=stylesheet>
+<script type="text/javascript" src="/e/data/js/ajax.js"></script>
+</HEAD>
+[!--temp.header--]
+<DIV id=main>
+<DIV id=right>
+<DIV class=rightk1>
+<DIV class=rtop>专题导航</DIV>
+<DIV class=rightli>
+<div class="maplink">
+
+</DIV>
+<DIV class=rbottom></DIV></DIV>
+<DIV class=p6px></DIV>
+<DIV class=rtop>本类热门</DIV>
+<DIV class=rightli>
+<DIV class=paihang2>
+<UL>
+[ecmsinfo]4,10,26,0,1,10,0[/ecmsinfo]
+</UL>
+</DIV>
+</DIV>
+<DIV class=rbottom></DIV></DIV>
+<DIV class=p6px></DIV>
+<DIV class=rightk1>
+<DIV class=rtop1>本类推荐</DIV>
+<DIV class=rightli1>
+<DIV class=paihang2>
+<UL>
+</UL>
+</DIV>
+</DIV>
+<DIV class=rbottom1></DIV></DIV>
+<DIV class=p6px></DIV>
+<DIV class=rightk1>
+<DIV class=rtop>最好玩的20个</DIV>
+<DIV class=rightli>
+<DIV class=paihang2>
+<UL>
+[ecmsinfo]4,10,26,0,1,10,0[/ecmsinfo]
+</UL>
+</DIV>
+</DIV>
+<DIV class=rbottom></DIV></DIV>
+<DIV class=p6px></DIV></DIV>
+<DIV class=yxlist1>
+<DIV class=yxtop></DIV>
+<DIV class=yxli>
+<div class="tiao">728AD</div>
+</DIV>
+<DIV class=yxbottom></DIV></DIV>
+<DIV class=yxlist style="MARGIN-TOP: 6px">
+<DIV class=rtop22><span><a href="/e/web/?type=rss2&classid=16" target="_blank"><img src="/skin/dana/images/xml.gif" border=0></a></span>
+您的位置：[!--newsnav--]类小游戏列表</div>
+<DIV class=yxli>
+[!--empirenews.listtemp--]
+<!--list.var1--><!--list.var2--><!--list.var3-->
+[!--empirenews.listtemp--]
+<DIV class=tiao6>[!--show.page--]</DIV></DIV>
+<DIV class=yxbottom></DIV>
+</DIV>
+</DIV>
+[!--temp.footer--]
+</BODY>
+</HTML>
